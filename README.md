@@ -2,4 +2,4 @@
 
 Check link here: 
 
-https://github.com/xie186/Courseara_StatisticsWithPython/blob/master/StatisticsWithPython_CourseraCourse.ipynb
+https://github.com/xie186/Coursera_StatisticsWithPython/blob/master/StatisticsWithPython_CourseraCourse.ipynb
